@@ -1,4 +1,0 @@
-1234 Virtanen Riku 100000 10 0 0 0 4 100014
-42355 Korhonen Kalle 0 8 6 0 0 0 14
-112345 Nieminen Aleksi 0 0 0 5 7 0 12
-12 Nieminen Riku 0 0 0 0 2 0 2
