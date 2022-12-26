@@ -10,7 +10,6 @@ Implement a system that tracks the exercise points for a course. The course has 
 The program should be able to support arbitrary number of students.
 
 
-
 ## Commands
 - A [student number] [last name] [first name] --- add student
 - U [student number] [round] [points]         --- update points
@@ -24,3 +23,7 @@ ASSUMPTION: arguments don't contain spaces
 student number: max. 6 digits
 round: between 1 and 6
 points: nonnegative integers
+
+
+## User guide
+Just compile and run
