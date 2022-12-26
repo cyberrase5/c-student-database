@@ -12,12 +12,12 @@ The program should be able to support arbitrary number of students.
 
 
 ## Commands
-A [student number] [last name] [first name] --- add student
-U [student number] [round] [points]         --- update points
-L                                           --- list current students and points
-W [filename]                                --- write to plaintext file
-O [filename]                                --- write from plaintext file
-Q                                           --- quit
+- A [student number] [last name] [first name] --- add student
+- U [student number] [round] [points]         --- update points
+- L                                           --- list current students and points
+- W [filename]                                --- write to plaintext file
+- O [filename]                                --- write from plaintext file
+- Q                                           --- quit
 
 ASSUMPTION: arguments don't contain spaces
 
