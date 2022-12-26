@@ -30,6 +30,7 @@ int main() {
     Student* list = malloc(1);
     char** args;
 
+    printf("Enter first command:\n");
     while (1) {
         fgets(input, 1001, stdin);
         char c = input[0];
